@@ -1,0 +1,11 @@
+# Raw Data Fitur Telegram Bot
+
+---
+
+Fitur-fitur yang tersedia:
+
+- Perintah /start
+- Menampilkan saldo celengan
+- Notifikasi uang masuk
+- Update saldo otomatis
+- Permintaan saldo oleh pengguna (/saldo)
