@@ -1,0 +1,22 @@
+# Raw Data Log Telegram Bot
+
+---
+
+[14:45]  
+User: /start  
+Bot: Celengan Pintar siap digunakan  
+
+[14:46]  
+Bot: Saldo saat ini: Rp 0  
+
+[15:27]  
+Bot: Uang masuk  
+Bot: Saldo: Rp 20000  
+
+[15:29]  
+User: /saldo  
+Bot: Saldo Celengan: Rp 20000  
+
+[15:59]  
+Bot: Uang masuk  
+Bot: Saldo: Rp 140000  
